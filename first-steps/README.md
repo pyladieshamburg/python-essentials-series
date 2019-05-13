@@ -50,7 +50,7 @@ An IDE is a software suite that consolidates basic tools required to write and t
 
 * Select "Create New Project"
 
-![](images/Create Project.png)
+![](images/Create%20Project.png)
 
 * Locate the "..." symbol. It is on  the __far right, top corner__
 
