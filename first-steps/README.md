@@ -95,7 +95,7 @@ Then, follow these steps:
 * Create a new Python file 
 
 
-![](images/First Python Project.png)
+![](imagesimages/First Python Project.png)
 
 + Check out this link to [creat and run your first python project](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html#create-file)
 
