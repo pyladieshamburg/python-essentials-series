@@ -137,23 +137,21 @@ Code  you will need :
 
 Here are some links to help you get started:
 
-https://pythonspot.com/random-numbers/
-https://docs.python.org/3/library/random.html
+* https://pythonspot.com/random-numbers/
+* https://docs.python.org/3/library/random.html
 
 
 ## Learn More:  Roll Two Die
 
-Use For loop to generate several random numbers:
-
-Links: https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/
+* Use For loop to generate several random numbers: https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/
 
 
 ## Learn Even More ..:
 
-Follow this link to [learn even more](https://pynative.com/python-random-module/)
+* Follow this link to [learn even more](https://pynative.com/python-random-module/)
 
-[Take a Quiz](https://pynative.com/python-random-data-generation-quiz/)
+* [Take a Quiz](https://pynative.com/python-random-data-generation-quiz/)
 
 
-## Give Us Your Feedback : What topics do you want to learn in an upcoming Session in the Essential Python 
-Series ..... [Answer Here](https://forms.gle/Jaia5D3qWh319Xod6)
+## Give Us Your Feedback 
+* What topics do you want to learn in an upcoming Session in the Essential Python  Series .....  [Answer Here](https://forms.gle/Jaia5D3qWh319Xod6)
