@@ -3,7 +3,7 @@
 
 ## Create a Python Virtual Environment: 
 
-a virtual environment a tool that helps to keep dependencies required by different projects
+A virtual environment a tool that helps to keep dependencies required by different projects
 separate by creating isolated python code for each of the projects. If you are new to creating Python 
 virtual environments, refer to the instructions in 
 [Creating a Virtual Environment with Python](https://github.com/pyladieshamburg/getting-started-with-python#create-a-virtual-environment-with-python-3)
