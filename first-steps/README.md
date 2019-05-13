@@ -117,51 +117,43 @@ Then, follow these steps:
 ![](images/run.png)
 
 
-# Project : Roll the Dice  
+##  Project : Roll the Dice  
 
-Generate random numbers for various distributions including integer and floats.
-Random Sampling and choose elements from the population.
-Functions of the random module.
-Shuffle the sequence data. Seed the random generator.
-Generate random strings and password.
-Cryptographically secure random generator using secrets module. Generate secure tokens, security keys, and URL
-How to set the state of a random generator.
-Use numpy.random to generate random arrays.
-Use the UUID module to generate unique IDs
+Random numbers are generated  for various reason: 
 
-Roll Single Dice
+* Random Sampling and choosing elements from the population
+* Shuffle the sequence data. Seed the random generator.
+* Generate random strings and password.
+* Use the UUID module to generate unique IDs
 
-## import package
-## print
-## Random Number Generator:
+Your first project will be to learn and use random number generators in Python, practicing with * Roll a Single Dice *
 
+Code  you will need : 
+
+
+* import package
+* print statement
+* Random Number Generator 
+
+Here are some links to help you get started:
 
 https://pythonspot.com/random-numbers/
 https://docs.python.org/3/library/random.html
 
+
 ## Learn More:  Roll Two Die
 
-Use For loop to generate several random numbers
+Use For loop to generate several random numbers:
 
-https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/
-
-
-## Learn Even More About Random :
-
-https://pynative.com/python-random-module/
-
-Take a Quiz: https://pynative.com/python-random-data-generation-quiz/
-
-# Feedback : What topics do you want to learn in an upcoming Session in the Essential Python 
-Series ..... enter here
-
-dice
+Links: https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/
 
 
+## Learn Even More ..:
 
-Survey
+Follow this link to [learn even more](https://pynative.com/python-random-module/)
 
-https://forms.gle/Jaia5D3qWh319Xod6
+[Take a Quiz](https://pynative.com/python-random-data-generation-quiz/)
 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeE8xSI3oS5TDTnnvUKaRziZ-KJtNeJnsHpl4CqeXmuUbxT1g/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+## Give Us Your Feedback : What topics do you want to learn in an upcoming Session in the Essential Python 
+Series ..... [Answer Here](https://forms.gle/Jaia5D3qWh319Xod6)
