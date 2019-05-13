@@ -45,15 +45,19 @@ An IDE is a software suite that consolidates basic tools required to write and t
 
 ## Setting up Your First PyCharm Project with a Python Virtual Environment
 
+
 * Launch PyCharm
 
 * Select "Create New Project"
 
-* Location:  then select "..." symbol, which is located on __far right, top corner__
+![](images/Create Project.png)
 
-* Select working directory : 'dice'
+* Locate the "..." symbol. It is on  the __far right, top corner__
+
+* Select working directory name : 'dice'
 
 * Select "Create Project"
+
 
 
 ## Choose an Interpreter 
@@ -62,10 +66,15 @@ Choosing which interpreter to use for a project is an important decision.
 Python is a script language, which means that your code is converted to machine code by a Python interpreter.
 You can have multiple versions of Python installed on your computer, and you need to choose the one you’d like for this project.
 
-*Choose the interpreter that is in the dice-env folder:
+* Choose the interpreter that is in the dice-env folder:
+
 
 
 ![](images/interpreter.png)
+
+### Steps for Choosing the dice-env Interpreter
+
+
 
 Then, follow these steps:
 
@@ -83,28 +92,29 @@ Then, follow these steps:
 
 ## Running  Your First Python Project
 
-Check out this link to [creat and run your first python project](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html#create-file)
+* Create a new Python file 
 
-## Create a new File 
 
-PIC  
+![](images/First Python Project.png)
+
++ Check out this link to [creat and run your first python project](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html#create-file)
 
 
 
 ## Python Syntax : Enough to Get Started
 
+[Python Syntax](https://www.w3schools.com/python/python_syntax.asp)
 
-https://www.w3schools.com/python/python_syntax.asp
-
-Code Layout:
-https://www.python.org/dev/peps/pep-0008/#id16
+[Python Code Layout:](https://www.python.org/dev/peps/pep-0008/#id16)
 
 
-print("Hello World: My Nane is Avaré")
+* Enter this python code into the file:
+
+`print("Hello World: My Nane is <YOUR NAME HERE> ")`
 
 ## Run Hello World
 
-PIC
+![](images/run.png)
 
 
 # Project : Roll the Dice  
