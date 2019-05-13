@@ -119,6 +119,7 @@ Then, follow these steps:
 
 ##  Project : Roll the Dice  
 
+
 Random numbers are generated  for various reason: 
 
 * Random Sampling and choosing elements from the population
@@ -127,6 +128,8 @@ Random numbers are generated  for various reason:
 * Use the UUID module to generate unique IDs
 
 Your first project will be to learn and use random number generators in Python, practicing with * Roll a Single Dice *
+
+![](images/die.jpeg)
 
 Code  you will need : 
 
