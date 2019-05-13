@@ -127,7 +127,7 @@ Random numbers are generated  for various reason:
 * Generate random strings and password.
 * Use the UUID module to generate unique IDs
 
-Your first project will be to learn and use random number generators in Python, practicing with * Roll a Single Dice *
+Your first project will be to learn and use random number generators in Python, practicing with *Roll a Dice*
 
 ![](images/die.jpeg)
 
