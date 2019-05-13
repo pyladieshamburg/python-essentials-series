@@ -12,6 +12,6 @@ Environment (IDE). You will:
 * understand python code layout and learn enough Python syntax to get you started with your Roll the Dice Project
 
 For those who want to learn more, there is an additional project,  and a quiz to 
-  assess  what you have learned...dive in!
+  assess  what you have learned...let's take our [first steps..](https://github.com/pyladieshamburg/python-essentials-series/tree/master/first-steps)!
   
  
