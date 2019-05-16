@@ -1,6 +1,6 @@
 # first-steps
 
-### Survey: Are you attending PyConDE and PyData  : Berlin October 9 - 13 2019
+### _Survey: Are you attending PyConDE and PyData  : Berlin October 9 - 13 2019?_
 
 ## Create a Python Virtual Environment: 
 
