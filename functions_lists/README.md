@@ -1,5 +1,5 @@
 
-# Part I: A First Start Writing Function
+# Part I: A First Start Writing Functions
 
 * [What are Functions?](https://www.w3schools.com/python/python_functions.asp)
 *  [What is a main() Function](https://realpython.com/python-main-function/)
@@ -19,19 +19,19 @@
 
     * Exercise: Download the file [countries.txt](https://github.com/pyladieshamburg/python-essentials-series/blob/master/functions_lists/data/countries.txt)
 
-    * Exercise: Create a list [reading the file contents](https://stackoverflow.com/questions/328059/create-a-list-that-contain-each-line-of-a-file)
+    * Exercise: Create a list [by reading the file contents](https://stackoverflow.com/questions/328059/create-a-list-that-contain-each-line-of-a-file)
 
 ## Length of List: 
- Often we want to know how many elements are present in the list .
+ Often we want to know how many elements are present in the list.
  
-    * Exercise: Given a list of countries return the number of countries in the list. Hint See [Built-In Functions](https://www.w3schools.com/python/python_ref_functions.asp)
+    * Exercise: Given a list of countries, return the number of countries in the list. Hint See [Built-In Functions](https://www.w3schools.com/python/python_ref_functions.asp)
 
 ## [Traversing a List:]
 
 A frequent operations on a list is visiting every element in the list, [traversing a List](https://www.w3schools.com/python/showpython.asp?filename=demo_list_loop) 
 
 
-    * Exercise: How many countries names are there in the list for each letter of the alphabet 
+    * Exercise: How many countries names are there for each letter of the alphabet?
      
      
 ## Slicing a List:
@@ -39,12 +39,12 @@ A frequent operations on a list is visiting every element in the list, [traversi
 Another frequent operations on a list is selecting part of the list, [slicint a List](https://www.pythoncentral.io/how-to-slice-listsarrays-and-tuples-in-python/) 
 
 
-    * Exercise: given a start and end number bounded by the number of countries, return countries corresponding position matches the range 
+    * Exercise: Given a start and end number bounded by the number of countries, return the countries whose positions match the range.
 
-## More Operations with List:
-    * Exercise: given a letter of the alphabet, return countries names that start with the given letter 
-    * Exercise: given a country name, return its position in the list
-    * Exercise: given a list return, a shuffled list
+## More Operations with Lists:
+    * Exercise: Given a letter of the alphabet, return countries names that start with the given letter.
+    * Exercise: Given a country name, return its position in the list.
+    * Exercise: Given a list return, a shuffled list.
 
  # Advanced Exercises 
  
