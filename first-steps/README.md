@@ -1,5 +1,6 @@
 # first-steps
 
+### [_Survey: Are you attending PyConDE and PyData  : Berlin October 9 - 13 2019?_](https://de.pycon.org/)
 
 ## Create a Python Virtual Environment: 
 
@@ -50,7 +51,7 @@ An IDE is a software suite that consolidates basic tools required to write and t
 
 * Select "Create New Project"
 
-![](images/Create Project.png)
+![](images/Create%20Project.png)
 
 * Locate the "..." symbol. It is on  the __far right, top corner__
 
@@ -95,7 +96,7 @@ Then, follow these steps:
 * Create a new Python file 
 
 
-![](images/First Python Project.png)
+![](images/First%20Python%20Project.png)
 
 + Check out this link to [creat and run your first python project](https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html#create-file)
 
@@ -127,7 +128,7 @@ Random numbers are generated  for various reason:
 * Generate random strings and password.
 * Use the UUID module to generate unique IDs
 
-Your first project will be to learn and use random number generators in Python, practicing with * Roll a Single Dice *
+Your first project will be to learn and use random number generators in Python, practicing with *Roll a Dice*
 
 ![](images/die.jpeg)
 
@@ -156,5 +157,5 @@ Here are some links to help you get started:
 * [Take a Quiz](https://pynative.com/python-random-data-generation-quiz/)
 
 
-## Give Us Your Feedback 
+# Give Us Your Feedback 
 * What topics do you want to learn in an upcoming Session in the Essential Python  Series .....  [Answer Here](https://forms.gle/Jaia5D3qWh319Xod6)
