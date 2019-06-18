@@ -17,9 +17,9 @@
 
 ## Creating a List
 
-    * Exercise: Download the file [countries.txt](https://github.com/pyladieshamburg/python-essentials-series/blob/master/functions_lists/data/countries.txt)
+    Exercise: Download the file [countries.txt](https://github.com/pyladieshamburg/python-essentials-series/blob/master/functions_lists/data/countries.txt)
 
-    * Exercise: Create a list [by reading the file contents](https://stackoverflow.com/questions/328059/create-a-list-that-contain-each-line-of-a-file)
+    Exercise: Create a list [by reading the file contents](https://stackoverflow.com/questions/328059/create-a-list-that-contain-each-line-of-a-file)
 
 ## Length of List: 
  Often we want to know how many elements are present in the list.
