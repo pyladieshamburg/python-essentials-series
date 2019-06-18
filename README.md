@@ -25,5 +25,5 @@ will begin with [A First Start Writing Function](https://github.com/pyladieshamb
 What will our Functions do? ... You guessed it ... operate on [Lists](https://github.com/pyladieshamburg/python-essentials-series/tree/master/functions_lists#part-ii-lists). 
 
 ##  Parallel Track
-Advanced: Are you more advanced in Python, then there is a track for you as well. Do you have your own project, then simply bring it along!
+Advanced: Are you more advanced in Python, then there is a [track](https://github.com/pyladieshamburg/python-essentials-series/tree/master/functions_lists#advanced-exercises) for you as well. Do you have your own project, then simply bring it along!
 
